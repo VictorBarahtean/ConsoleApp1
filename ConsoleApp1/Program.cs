@@ -7,6 +7,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            var x = 9 + 1;
+            var z = x + 1;
+            var n = z + 1;
         }
     }
 }
